@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP.NET\\mvc_training\\Projects\\Landing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F97425-302B-40F4-ACDC-30F150F7B1DA}|Landing.PL\\Landing.PL.csproj|d:\\asp.net\\mvc_training\\projects\\landing\\landing.pl\\areas\\dashboard\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7F97425-302B-40F4-ACDC-30F150F7B1DA}|Landing.PL\\Landing.PL.csproj|solutionrelative:landing.pl\\areas\\dashboard\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F97425-302B-40F4-ACDC-30F150F7B1DA}|Landing.PL\\Landing.PL.csproj|d:\\asp.net\\mvc_training\\projects\\landing\\landing.pl\\areas\\dashboard\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7F97425-302B-40F4-ACDC-30F150F7B1DA}|Landing.PL\\Landing.PL.csproj|solutionrelative:landing.pl\\areas\\dashboard\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F97425-302B-40F4-ACDC-30F150F7B1DA}|Landing.PL\\Landing.PL.csproj|d:\\asp.net\\mvc_training\\projects\\landing\\landing.pl\\areas\\dashboard\\views\\shared\\_head.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7F97425-302B-40F4-ACDC-30F150F7B1DA}|Landing.PL\\Landing.PL.csproj|solutionrelative:landing.pl\\areas\\dashboard\\views\\shared\\_head.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F97425-302B-40F4-ACDC-30F150F7B1DA}|Landing.PL\\Landing.PL.csproj|d:\\asp.net\\mvc_training\\projects\\landing\\landing.pl\\areas\\dashboard\\views\\shared\\_scripts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7F97425-302B-40F4-ACDC-30F150F7B1DA}|Landing.PL\\Landing.PL.csproj|solutionrelative:landing.pl\\areas\\dashboard\\views\\shared\\_scripts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F97425-302B-40F4-ACDC-30F150F7B1DA}|Landing.PL\\Landing.PL.csproj|d:\\asp.net\\mvc_training\\projects\\landing\\landing.pl\\areas\\dashboard\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7F97425-302B-40F4-ACDC-30F150F7B1DA}|Landing.PL\\Landing.PL.csproj|solutionrelative:landing.pl\\areas\\dashboard\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F97425-302B-40F4-ACDC-30F150F7B1DA}|Landing.PL\\Landing.PL.csproj|d:\\asp.net\\mvc_training\\projects\\landing\\landing.pl\\areas\\dashboard\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7F97425-302B-40F4-ACDC-30F150F7B1DA}|Landing.PL\\Landing.PL.csproj|solutionrelative:landing.pl\\areas\\dashboard\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F97425-302B-40F4-ACDC-30F150F7B1DA}|Landing.PL\\Landing.PL.csproj|d:\\asp.net\\mvc_training\\projects\\landing\\landing.pl\\areas\\dashboard\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7F97425-302B-40F4-ACDC-30F150F7B1DA}|Landing.PL\\Landing.PL.csproj|solutionrelative:landing.pl\\areas\\dashboard\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F97425-302B-40F4-ACDC-30F150F7B1DA}|Landing.PL\\Landing.PL.csproj|d:\\asp.net\\mvc_training\\projects\\landing\\landing.pl\\areas\\dashboard\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F97425-302B-40F4-ACDC-30F150F7B1DA}|Landing.PL\\Landing.PL.csproj|solutionrelative:landing.pl\\areas\\dashboard\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F97425-302B-40F4-ACDC-30F150F7B1DA}|Landing.PL\\Landing.PL.csproj|d:\\asp.net\\mvc_training\\projects\\landing\\landing.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F97425-302B-40F4-ACDC-30F150F7B1DA}|Landing.PL\\Landing.PL.csproj|solutionrelative:landing.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F97425-302B-40F4-ACDC-30F150F7B1DA}|Landing.PL\\Landing.PL.csproj|d:\\asp.net\\mvc_training\\projects\\landing\\landing.pl\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D7F97425-302B-40F4-ACDC-30F150F7B1DA}|Landing.PL\\Landing.PL.csproj|solutionrelative:landing.pl\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\mvc_training\\Projects\\Landing\\Landing.PL\\Areas\\Dashboard\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Landing.PL\\Areas\\Dashboard\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ASP.NET\\mvc_training\\Projects\\Landing\\Landing.PL\\Areas\\Dashboard\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Landing.PL\\Areas\\Dashboard\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T14:09:29.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\mvc_training\\Projects\\Landing\\Landing.PL\\Areas\\Dashboard\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Landing.PL\\Areas\\Dashboard\\Views\\Category\\Index.cshtml",
+              "ToolTip": "D:\\ASP.NET\\mvc_training\\Projects\\Landing\\Landing.PL\\Areas\\Dashboard\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "Landing.PL\\Areas\\Dashboard\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T14:13:04.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_head.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\mvc_training\\Projects\\Landing\\Landing.PL\\Areas\\Dashboard\\Views\\Shared\\_head.cshtml",
+              "RelativeDocumentMoniker": "Landing.PL\\Areas\\Dashboard\\Views\\Shared\\_head.cshtml",
+              "ToolTip": "D:\\ASP.NET\\mvc_training\\Projects\\Landing\\Landing.PL\\Areas\\Dashboard\\Views\\Shared\\_head.cshtml",
+              "RelativeToolTip": "Landing.PL\\Areas\\Dashboard\\Views\\Shared\\_head.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T15:47:51.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_scripts.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\mvc_training\\Projects\\Landing\\Landing.PL\\Areas\\Dashboard\\Views\\Shared\\_scripts.cshtml",
+              "RelativeDocumentMoniker": "Landing.PL\\Areas\\Dashboard\\Views\\Shared\\_scripts.cshtml",
+              "ToolTip": "D:\\ASP.NET\\mvc_training\\Projects\\Landing\\Landing.PL\\Areas\\Dashboard\\Views\\Shared\\_scripts.cshtml",
+              "RelativeToolTip": "Landing.PL\\Areas\\Dashboard\\Views\\Shared\\_scripts.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T16:04:27.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_footer.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\mvc_training\\Projects\\Landing\\Landing.PL\\Areas\\Dashboard\\Views\\Shared\\_footer.cshtml",
+              "RelativeDocumentMoniker": "Landing.PL\\Areas\\Dashboard\\Views\\Shared\\_footer.cshtml",
+              "ToolTip": "D:\\ASP.NET\\mvc_training\\Projects\\Landing\\Landing.PL\\Areas\\Dashboard\\Views\\Shared\\_footer.cshtml",
+              "RelativeToolTip": "Landing.PL\\Areas\\Dashboard\\Views\\Shared\\_footer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T16:01:52.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_sidebar.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\mvc_training\\Projects\\Landing\\Landing.PL\\Areas\\Dashboard\\Views\\Shared\\_sidebar.cshtml",
+              "RelativeDocumentMoniker": "Landing.PL\\Areas\\Dashboard\\Views\\Shared\\_sidebar.cshtml",
+              "ToolTip": "D:\\ASP.NET\\mvc_training\\Projects\\Landing\\Landing.PL\\Areas\\Dashboard\\Views\\Shared\\_sidebar.cshtml",
+              "RelativeToolTip": "Landing.PL\\Areas\\Dashboard\\Views\\Shared\\_sidebar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T15:59:18.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_navbar.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\mvc_training\\Projects\\Landing\\Landing.PL\\Areas\\Dashboard\\Views\\Shared\\_navbar.cshtml",
+              "RelativeDocumentMoniker": "Landing.PL\\Areas\\Dashboard\\Views\\Shared\\_navbar.cshtml",
+              "ToolTip": "D:\\ASP.NET\\mvc_training\\Projects\\Landing\\Landing.PL\\Areas\\Dashboard\\Views\\Shared\\_navbar.cshtml",
+              "RelativeToolTip": "Landing.PL\\Areas\\Dashboard\\Views\\Shared\\_navbar.cshtml",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAwwIYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T15:52:07.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\mvc_training\\Projects\\Landing\\Landing.PL\\Areas\\Dashboard\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Landing.PL\\Areas\\Dashboard\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\ASP.NET\\mvc_training\\Projects\\Landing\\Landing.PL\\Areas\\Dashboard\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Landing.PL\\Areas\\Dashboard\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T14:12:09.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\mvc_training\\Projects\\Landing\\Landing.PL\\Program.cs",
+              "RelativeDocumentMoniker": "Landing.PL\\Program.cs",
+              "ToolTip": "D:\\ASP.NET\\mvc_training\\Projects\\Landing\\Landing.PL\\Program.cs",
+              "RelativeToolTip": "Landing.PL\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAcwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T14:43:49.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "D:\\ASP.NET\\mvc_training\\Projects\\Landing\\Landing.PL\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Landing.PL\\ScaffoldingReadMe.txt",
+              "ToolTip": "D:\\ASP.NET\\mvc_training\\Projects\\Landing\\Landing.PL\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Landing.PL\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-03T14:05:53.635Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
